@@ -1,1 +1,3 @@
-# lesson-0.3-git-exercise
+# GitHub Desktop Exercise
+
+This is a sentence.
